@@ -1,0 +1,22 @@
+
+
+safe-timer: 180 # measured in minutes
+pvp-timer: 120
+
+start-with-pvp-on: false #decides weather the server will start with pvp on or off
+
+
+pvp-started-main-message: "PvP has been enabled"  # This is the main red text that appears when pvp starts
+pvp-started-bottom-text: "Get to killing or run and hide" # This is the smaller yellow text that appears under it
+
+
+pvp-ended-main-message: "You are safe now <3"  # This is the main red text that appears when pvp ends
+pvp-ended-bottom-text: "PvP has been disabled" # This is the smaller yellow text that appears under it
+
+
+timer-paused-main-message: "Pvp timer paused" # Main text when the timer is paused
+timer-paused-bottom-text: "Pvp state will not change until its resumed" # bottom yellow text when timer is paused
+
+
+timer-resumed-main-message: "Pvp timer paused"  # Main text when the timer is resumed
+timer-resumed-bottom-text: "The timer is ticking again" # bottom yellow text when timer is resumed

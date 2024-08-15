@@ -1,0 +1,11 @@
+name: pvp-timer
+version: '${project.version}'
+main: org.oreo.safetimer.Pvp_timer
+api-version: '1.21'
+
+commands:
+  pvpTimer:
+    description: A command to manage pvp timer
+    usage: /<command>
+    aliases:
+      - pvpTimer
